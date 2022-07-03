@@ -9,9 +9,8 @@ body{
 }
 .form{
     background-color: white;
-    margin-left: 270px;
-    margin-right: 270px;
     padding: 10px;
+    margin: 10px 270px;
 }
 .input-field{
     margin-bottom: 10px;
