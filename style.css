@@ -1,0 +1,41 @@
+body{
+    background-color:darkslateblue;
+}
+.title{
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+.form{
+    background-color: white;
+    margin-left: 270px;
+    margin-right: 270px;
+    padding: 10px;
+}
+.input-field{
+    margin-bottom: 10px;
+}
+label{
+    color: red;
+}
+input{
+    width: 96%;
+    padding-right: 10px;
+    padding-top: 3px;
+    margin-top:5px;
+}
+.button-input{
+    text-align: center;
+}
+#send{
+    background-color:darkturquoise;
+    text-align: center;
+    color: white;
+    border:0px;
+    text-align: center;
+}
+.text{
+    color: white;
+    text-align: center;
+}
